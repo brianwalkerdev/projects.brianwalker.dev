@@ -76,4 +76,4 @@ echo "$RESPONSE" | jq '[.data.user.pinnedItems.nodes[] | {
 }] | sort_by(.updated) | reverse' > "$OUTPUT_FILE"
 
 echo "Pinned repositories saved to $OUTPUT_FILE"
-cat "$OUTPUT_FILE" | jq 'length' | xargs echo "Total repos:"
+jq -r 'length | "Total repos: \(.)"' "$OUTPUT_FILE"
