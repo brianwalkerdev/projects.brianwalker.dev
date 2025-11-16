@@ -12,7 +12,7 @@ A dynamic portfolio website that automatically showcases pinned GitHub repositor
 **Latest Verification**: 2025-11-16
 
 - **Main Portfolio**: https://projects.brianwalker.dev/
-- **Project URLs**: https://projects.brianwalker.dev/`<project-name>`/
+- **Project URLs**: https://projects.brianwalker.dev/<project-name>/
 - **Workflow**: Runs weekly + on every push to main
 - **Featured Projects**: 6 pinned repositories currently deployed
 
