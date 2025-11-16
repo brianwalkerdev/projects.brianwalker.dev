@@ -155,9 +155,12 @@ function createProjectCard(project) {
     
     const formattedDate = formatDate(project.updated);
     
+    // Use openGraphImageUrl if available, otherwise fall back to local thumbnail
+    const thumbnailSrc = project.openGraphImageUrl || project.thumbnail;
+    
     card.innerHTML = `
         <img 
-            src="${project.thumbnail}" 
+            src="${thumbnailSrc}" 
             alt="${project.name} thumbnail" 
             class="project-thumbnail"
             loading="lazy"
