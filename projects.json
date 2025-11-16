@@ -16,8 +16,8 @@
     "url": "https://github.com/brianwalkerdev/game-show-web-app",
     "homepage": "https://brianwalkerdev.github.io/game-show-web-app/",
     "thumbnail": "assets/img/game-show-web-app.png",
-    "openGraphImageUrl": "https://opengraph.githubassets.com/57bd8c351abaf5321c64fa1effcf740c2d4edf8f182797610f39553d4deeafe8/brianwalkerdev/game-show-web-app",
-    "usesCustomOpenGraphImage": false
+    "openGraphImageUrl": "https://repository-images.githubusercontent.com/575927606/9ce3968a-5576-453a-82d2-f84ebc36654f",
+    "usesCustomOpenGraphImage": true
   },
   {
     "name": "interactive-image-gallery-js",
