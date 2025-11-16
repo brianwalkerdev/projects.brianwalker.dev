@@ -1,5 +1,45 @@
 [
   {
+    "name": "frontend-web-application",
+    "description": "A front-end web application demonstrating dynamic user interactions, responsive UI design, and clean JavaScript architecture.",
+    "updated": "2025-11-16T06:07:21Z",
+    "url": "https://github.com/brianwalkerdev/frontend-web-application",
+    "homepage": "https://brianwalkerdev.github.io/frontend-web-application/",
+    "thumbnail": "assets/img/frontend-web-application.png",
+    "openGraphImageUrl": "https://repository-images.githubusercontent.com/575925639/75770a1e-4af1-46e0-b578-96f0113ba665",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "name": "game-show-web-app",
+    "description": "An engaging browser-based game app built with HTML, CSS and JavaScript where players guess a random phrase “game-show” style. Demonstrates dynamic UI, event handling and front-end logic. Keywords: game show web app, word guessing game, JavaScript game, interactive front-end, browser game, HTML5 game, CSS animation",
+    "updated": "2025-11-16T05:58:32Z",
+    "url": "https://github.com/brianwalkerdev/game-show-web-app",
+    "homepage": "https://brianwalkerdev.github.io/game-show-web-app/",
+    "thumbnail": "assets/img/game-show-web-app.png",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/57bd8c351abaf5321c64fa1effcf740c2d4edf8f182797610f39553d4deeafe8/brianwalkerdev/game-show-web-app",
+    "usesCustomOpenGraphImage": false
+  },
+  {
+    "name": "interactive-image-gallery-js",
+    "description": "An interactive image gallery built with vanilla JavaScript. Features dynamic modals, search functionality, and responsive grid design.",
+    "updated": "2025-11-16T05:34:01Z",
+    "url": "https://github.com/brianwalkerdev/interactive-image-gallery-js",
+    "homepage": "https://brianwalkerdev.github.io/interactive-image-gallery-js/",
+    "thumbnail": "assets/img/interactive-image-gallery-js.png",
+    "openGraphImageUrl": "https://repository-images.githubusercontent.com/323187097/f685b569-ad08-4193-b08c-a78a504d894e",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "name": "responsive-web-page-advanced-layouts",
+    "description": "An advanced responsive webpage demonstrating grid and flexbox layouts for scalable and adaptive front-end design.",
+    "updated": "2025-11-16T02:42:09Z",
+    "url": "https://github.com/brianwalkerdev/responsive-web-page-advanced-layouts",
+    "homepage": "https://brianwalkerdev.github.io/responsive-web-page-advanced-layouts/",
+    "thumbnail": "assets/img/responsive-web-page-advanced-layouts.png",
+    "openGraphImageUrl": "https://repository-images.githubusercontent.com/282557265/82826e35-75a4-4799-b1fa-e335a436282b",
+    "usesCustomOpenGraphImage": true
+  },
+  {
     "name": "responsive-web-page-html-css",
     "description": "A clean, mobile-friendly responsive web page built using HTML5 and CSS3. Showcases layout design, typography, and accessibility best practices.",
     "updated": "2025-11-16T02:38:23Z",
@@ -18,45 +58,5 @@
     "thumbnail": "assets/img/modern-web-page-sass.png",
     "openGraphImageUrl": "https://repository-images.githubusercontent.com/289570450/7ef35b57-29bb-4a81-8b50-e737eef45760",
     "usesCustomOpenGraphImage": true
-  },
-  {
-    "name": "responsive-web-page-advanced-layouts",
-    "description": "An advanced responsive webpage demonstrating grid and flexbox layouts for scalable and adaptive front-end design.",
-    "updated": "2025-11-15T14:18:24Z",
-    "url": "https://github.com/brianwalkerdev/responsive-web-page-advanced-layouts",
-    "homepage": "https://brianwalkerdev.github.io/responsive-web-page-advanced-layouts/",
-    "thumbnail": "assets/img/responsive-web-page-advanced-layouts.png",
-    "openGraphImageUrl": "https://repository-images.githubusercontent.com/282557265/82826e35-75a4-4799-b1fa-e335a436282b",
-    "usesCustomOpenGraphImage": true
-  },
-  {
-    "name": "game-show-web-app",
-    "description": "An engaging browser-based game app built with HTML, CSS and JavaScript where players guess a random phrase “game-show” style. Demonstrates dynamic UI, event handling and front-end logic. Keywords: game show web app, word guessing game, JavaScript game, interactive front-end, browser game, HTML5 game, CSS animation",
-    "updated": "2025-11-10T03:56:37Z",
-    "url": "https://github.com/brianwalkerdev/game-show-web-app",
-    "homepage": "https://brianwalkerdev.github.io/game-show-web-app/",
-    "thumbnail": "assets/img/game-show-web-app.png",
-    "openGraphImageUrl": "https://opengraph.githubassets.com/fba6ec6100ab3091e15ae04c7d262814ce477419a54654deae0088cfa708f05d/brianwalkerdev/game-show-web-app",
-    "usesCustomOpenGraphImage": false
-  },
-  {
-    "name": "frontend-web-application",
-    "description": "A front-end web application demonstrating dynamic user interactions, responsive UI design, and clean JavaScript architecture.",
-    "updated": "2025-11-10T03:34:27Z",
-    "url": "https://github.com/brianwalkerdev/frontend-web-application",
-    "homepage": "https://brianwalkerdev.github.io/frontend-web-application/",
-    "thumbnail": "assets/img/frontend-web-application.png",
-    "openGraphImageUrl": "https://opengraph.githubassets.com/c30a960bfc6958648348c600f08d13c724a299cc18979746f28cb6f1a7d95b7c/brianwalkerdev/frontend-web-application",
-    "usesCustomOpenGraphImage": false
-  },
-  {
-    "name": "interactive-image-gallery-js",
-    "description": "An interactive image gallery built with vanilla JavaScript. Features dynamic modals, search functionality, and responsive grid design.",
-    "updated": "2025-11-10T03:10:37Z",
-    "url": "https://github.com/brianwalkerdev/interactive-image-gallery-js",
-    "homepage": "https://brianwalkerdev.github.io/interactive-image-gallery-js/",
-    "thumbnail": "assets/img/interactive-image-gallery-js.png",
-    "openGraphImageUrl": "https://opengraph.githubassets.com/9ddcfa9e7e527bce81270a42d09204d94b87252e3daf7e6c8d1374cbe1c227f3/brianwalkerdev/interactive-image-gallery-js",
-    "usesCustomOpenGraphImage": false
   }
 ]
