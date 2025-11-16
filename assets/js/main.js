@@ -164,7 +164,7 @@ function createProjectCard(project) {
             alt="${project.name} thumbnail" 
             class="project-thumbnail"
             loading="lazy"
-            onerror="this.src='assets/img/default-thumbnail.svg'"
+            onerror="this.src='/assets/img/default-thumbnail.svg'"
         >
         <div class="project-content">
             <h3 class="project-title">${escapeHtml(project.name)}</h3>
