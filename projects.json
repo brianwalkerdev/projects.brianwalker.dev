@@ -1,5 +1,25 @@
 [
   {
+    "name": "responsive-web-page-html-css",
+    "description": "A clean, mobile-friendly responsive web page built using HTML5 and CSS3. Showcases layout design, typography, and accessibility best practices.",
+    "updated": "2025-11-16T02:38:23Z",
+    "url": "https://github.com/brianwalkerdev/responsive-web-page-html-css",
+    "homepage": "https://brianwalkerdev.github.io/responsive-web-page-html-css/",
+    "thumbnail": "assets/img/responsive-web-page-html-css.png",
+    "openGraphImageUrl": "https://repository-images.githubusercontent.com/280724960/72005d35-ed43-47b3-b49d-b64f51280558",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "name": "modern-web-page-sass",
+    "description": "A modern web page styled using SASS, focusing on modular structure, reusable components, and maintainable front-end styling techniques.",
+    "updated": "2025-11-16T01:32:07Z",
+    "url": "https://github.com/brianwalkerdev/modern-web-page-sass",
+    "homepage": "https://brianwalkerdev.github.io/modern-web-page-sass/",
+    "thumbnail": "assets/img/modern-web-page-sass.png",
+    "openGraphImageUrl": "https://repository-images.githubusercontent.com/289570450/7ef35b57-29bb-4a81-8b50-e737eef45760",
+    "usesCustomOpenGraphImage": true
+  },
+  {
     "name": "responsive-web-page-advanced-layouts",
     "description": "An advanced responsive webpage demonstrating grid and flexbox layouts for scalable and adaptive front-end design.",
     "updated": "2025-11-15T14:18:24Z",
@@ -7,16 +27,6 @@
     "homepage": "https://brianwalkerdev.github.io/responsive-web-page-advanced-layouts/",
     "thumbnail": "assets/img/responsive-web-page-advanced-layouts.png",
     "openGraphImageUrl": "https://repository-images.githubusercontent.com/282557265/82826e35-75a4-4799-b1fa-e335a436282b",
-    "usesCustomOpenGraphImage": true
-  },
-  {
-    "name": "responsive-web-page-html-css",
-    "description": "A clean, mobile-friendly responsive web page built using HTML5 and CSS3. Showcases layout design, typography, and accessibility best practices.",
-    "updated": "2025-11-15T04:17:52Z",
-    "url": "https://github.com/brianwalkerdev/responsive-web-page-html-css",
-    "homepage": "https://brianwalkerdev.github.io/responsive-web-page-html-css/",
-    "thumbnail": "assets/img/responsive-web-page-html-css.png",
-    "openGraphImageUrl": "https://repository-images.githubusercontent.com/280724960/72005d35-ed43-47b3-b49d-b64f51280558",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -47,16 +57,6 @@
     "homepage": "https://brianwalkerdev.github.io/interactive-image-gallery-js/",
     "thumbnail": "assets/img/interactive-image-gallery-js.png",
     "openGraphImageUrl": "https://opengraph.githubassets.com/9ddcfa9e7e527bce81270a42d09204d94b87252e3daf7e6c8d1374cbe1c227f3/brianwalkerdev/interactive-image-gallery-js",
-    "usesCustomOpenGraphImage": false
-  },
-  {
-    "name": "modern-web-page-sass",
-    "description": "A modern web page styled using SASS, focusing on modular structure, reusable components, and maintainable front-end styling techniques.",
-    "updated": "2025-11-10T02:58:03Z",
-    "url": "https://github.com/brianwalkerdev/modern-web-page-sass",
-    "homepage": "https://brianwalkerdev.github.io/modern-web-page-sass/",
-    "thumbnail": "assets/img/modern-web-page-sass.png",
-    "openGraphImageUrl": "https://opengraph.githubassets.com/bae8f5d77589180241873855c3b5b827dbd927045e10f2a1d7680563913e4f59/brianwalkerdev/modern-web-page-sass",
     "usesCustomOpenGraphImage": false
   }
 ]
