@@ -91,7 +91,7 @@ https://projects.brianwalker.dev/       # Served from /dist/ (build artifact)
 - Uploads `/dist/` as GitHub Pages artifact
 - GitHub Pages serves the site:
   - Main site at root: https://projects.brianwalker.dev/
-  - Each project at subdirectory: https://projects.brianwalker.dev/`<project-name>`/
+  - Each project at subdirectory: https://projects.brianwalker.dev/<project-name>/
 - **The `/dist/` folder is deleted after deployment** (not stored in repository)
 
 > 💡 **Where are the built files?** They're deployed to GitHub Pages, not stored in the repository. See [BUILD.md](BUILD.md) for details on viewing or building locally.
