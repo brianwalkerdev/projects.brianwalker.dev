@@ -24,7 +24,7 @@ A dynamic portfolio website that automatically showcases pinned GitHub repositor
 
 ### ❓ Common Questions
 - **Where is the `/dist/` folder?** It's not in the repository—it's a build artifact created during deployment. See [BUILD.md](BUILD.md).
-- **Where are the built project files?** They're live at https://projects.brianwalker.dev/`<project-name>`/. See [BUILD.md](BUILD.md) for details.
+- **Where are the built project files?** They're live at https://projects.brianwalker.dev/<project-name>/. See [BUILD.md](BUILD.md) for details.
 
 ## ✨ Features
 
