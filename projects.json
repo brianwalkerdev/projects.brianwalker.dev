@@ -1,5 +1,35 @@
 [
   {
+    "name": "interactive-image-gallery-js",
+    "description": "An interactive image gallery built with vanilla JavaScript. Features dynamic modals, search functionality, and responsive grid design.",
+    "updated": "2025-11-18T19:34:38Z",
+    "url": "https://github.com/brianwalkerdev/interactive-image-gallery-js",
+    "homepage": "/interactive-image-gallery-js/",
+    "thumbnail": "assets/img/interactive-image-gallery-js.png",
+    "openGraphImageUrl": "https://repository-images.githubusercontent.com/323187097/f685b569-ad08-4193-b08c-a78a504d894e",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "name": "modern-web-page-sass",
+    "description": "A modern web page styled using SASS, focusing on modular structure, reusable components, and maintainable front-end styling techniques.",
+    "updated": "2025-11-18T19:34:05Z",
+    "url": "https://github.com/brianwalkerdev/modern-web-page-sass",
+    "homepage": "/modern-web-page-sass/",
+    "thumbnail": "assets/img/modern-web-page-sass.png",
+    "openGraphImageUrl": "https://repository-images.githubusercontent.com/289570450/7ef35b57-29bb-4a81-8b50-e737eef45760",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "name": "responsive-web-page-html-css",
+    "description": "A clean, mobile-friendly responsive web page built using HTML5 and CSS3. Showcases layout design, typography, and accessibility best practices.",
+    "updated": "2025-11-18T19:33:28Z",
+    "url": "https://github.com/brianwalkerdev/responsive-web-page-html-css",
+    "homepage": "/responsive-web-page-html-css/",
+    "thumbnail": "assets/img/responsive-web-page-html-css.png",
+    "openGraphImageUrl": "https://repository-images.githubusercontent.com/280724960/72005d35-ed43-47b3-b49d-b64f51280558",
+    "usesCustomOpenGraphImage": true
+  },
+  {
     "name": "responsive-web-page-advanced-layouts",
     "description": "An advanced responsive webpage demonstrating grid and flexbox layouts for scalable and adaptive front-end design.",
     "updated": "2025-11-18T06:47:37Z",
@@ -27,36 +57,6 @@
     "homepage": "/game-show-web-app/",
     "thumbnail": "assets/img/game-show-web-app.png",
     "openGraphImageUrl": "https://repository-images.githubusercontent.com/575927606/9ce3968a-5576-453a-82d2-f84ebc36654f",
-    "usesCustomOpenGraphImage": true
-  },
-  {
-    "name": "interactive-image-gallery-js",
-    "description": "An interactive image gallery built with vanilla JavaScript. Features dynamic modals, search functionality, and responsive grid design.",
-    "updated": "2025-11-18T06:46:17Z",
-    "url": "https://github.com/brianwalkerdev/interactive-image-gallery-js",
-    "homepage": "/interactive-image-gallery-js/",
-    "thumbnail": "assets/img/interactive-image-gallery-js.png",
-    "openGraphImageUrl": "https://repository-images.githubusercontent.com/323187097/f685b569-ad08-4193-b08c-a78a504d894e",
-    "usesCustomOpenGraphImage": true
-  },
-  {
-    "name": "modern-web-page-sass",
-    "description": "A modern web page styled using SASS, focusing on modular structure, reusable components, and maintainable front-end styling techniques.",
-    "updated": "2025-11-18T06:45:39Z",
-    "url": "https://github.com/brianwalkerdev/modern-web-page-sass",
-    "homepage": "/modern-web-page-sass/",
-    "thumbnail": "assets/img/modern-web-page-sass.png",
-    "openGraphImageUrl": "https://repository-images.githubusercontent.com/289570450/7ef35b57-29bb-4a81-8b50-e737eef45760",
-    "usesCustomOpenGraphImage": true
-  },
-  {
-    "name": "responsive-web-page-html-css",
-    "description": "A clean, mobile-friendly responsive web page built using HTML5 and CSS3. Showcases layout design, typography, and accessibility best practices.",
-    "updated": "2025-11-18T06:44:31Z",
-    "url": "https://github.com/brianwalkerdev/responsive-web-page-html-css",
-    "homepage": "/responsive-web-page-html-css/",
-    "thumbnail": "assets/img/responsive-web-page-html-css.png",
-    "openGraphImageUrl": "https://repository-images.githubusercontent.com/280724960/72005d35-ed43-47b3-b49d-b64f51280558",
     "usesCustomOpenGraphImage": true
   }
 ]
