@@ -5,7 +5,7 @@
   "main": "index.html",
   "scripts": {
     "build": "node build.js",
-    "dev": "python3 -m http.server 8080",
+    "dev": "npx serve -l 8080 .",
     "preview": "npm run dev"
   },
   "repository": {
