@@ -1,18 +1,8 @@
 [
   {
-    "name": "responsive-personal-portfolio-website",
-    "description": "A modern, mobile-first portfolio website built with semantic HTML and responsive CSS.",
-    "updated": "2025-11-19T04:49:04Z",
-    "url": "https://github.com/brianwalkerdev/responsive-personal-portfolio-website",
-    "homepage": "https://projects.brianwalker.dev/responsive-personal-portfolio-website/",
-    "thumbnail": "assets/img/responsive-personal-portfolio-website.png",
-    "openGraphImageUrl": "https://repository-images.githubusercontent.com/280724960/72005d35-ed43-47b3-b49d-b64f51280558",
-    "usesCustomOpenGraphImage": true
-  },
-  {
     "name": "responsive-admin-dashboard-web-app",
     "description": "Feature-rich dashboard UI with charts, messaging, alerts, notifications, and customizable settings.",
-    "updated": "2025-11-19T03:28:48Z",
+    "updated": "2025-11-19T05:11:00Z",
     "url": "https://github.com/brianwalkerdev/responsive-admin-dashboard-web-app",
     "homepage": "https://projects.brianwalker.dev/responsive-admin-dashboard-web-app/",
     "thumbnail": "assets/img/responsive-admin-dashboard-web-app.png",
@@ -22,7 +12,7 @@
   {
     "name": "phrase-guessing-game-javascript-app",
     "description": "Wheel-of-Success style phrase guessing game with custom logic, randomized phrases, and responsive UI.",
-    "updated": "2025-11-19T03:28:18Z",
+    "updated": "2025-11-19T04:59:01Z",
     "url": "https://github.com/brianwalkerdev/phrase-guessing-game-javascript-app",
     "homepage": "https://projects.brianwalker.dev/phrase-guessing-game-javascript-app/",
     "thumbnail": "assets/img/phrase-guessing-game-javascript-app.png",
@@ -32,7 +22,7 @@
   {
     "name": "interactive-photo-gallery-vanilla-javascript",
     "description": "Interactive photo gallery with instant search, lightbox previews, animations, and keyboard accessibility.",
-    "updated": "2025-11-19T03:25:42Z",
+    "updated": "2025-11-19T04:57:49Z",
     "url": "https://github.com/brianwalkerdev/interactive-photo-gallery-vanilla-javascript",
     "homepage": "https://projects.brianwalker.dev/interactive-photo-gallery-vanilla-javascript/",
     "thumbnail": "assets/img/interactive-photo-gallery-vanilla-javascript.png",
@@ -42,21 +32,31 @@
   {
     "name": "sass-ui-kit-modular-design-system",
     "description": "Scalable SASS UI kit featuring reusable components, design tokens, mixins, and modular architecture.",
-    "updated": "2025-11-19T03:25:01Z",
+    "updated": "2025-11-19T04:53:44Z",
     "url": "https://github.com/brianwalkerdev/sass-ui-kit-modular-design-system",
     "homepage": "https://projects.brianwalker.dev/sass-ui-kit-modular-design-system/",
     "thumbnail": "assets/img/sass-ui-kit-modular-design-system.png",
-    "openGraphImageUrl": "https://repository-images.githubusercontent.com/289570450/7ef35b57-29bb-4a81-8b50-e737eef45760",
+    "openGraphImageUrl": "https://repository-images.githubusercontent.com/289570450/8bf5f4be-24d9-4b0b-a5e8-dae4c0e14b6c",
     "usesCustomOpenGraphImage": true
   },
   {
     "name": "newsletter-signup-landing-page-ui-ux",
     "description": "Conversion-focused signup landing page with responsive layouts, form validation, and mobile-first UI/UX.",
-    "updated": "2025-11-19T03:24:18Z",
+    "updated": "2025-11-19T04:52:21Z",
     "url": "https://github.com/brianwalkerdev/newsletter-signup-landing-page-ui-ux",
     "homepage": "https://projects.brianwalker.dev/newsletter-signup-landing-page-ui-ux/",
     "thumbnail": "assets/img/newsletter-signup-landing-page-ui-ux.png",
     "openGraphImageUrl": "https://repository-images.githubusercontent.com/282557265/82826e35-75a4-4799-b1fa-e335a436282b",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "name": "responsive-personal-portfolio-website",
+    "description": "A modern, mobile-first portfolio website built with semantic HTML and responsive CSS.",
+    "updated": "2025-11-19T04:49:04Z",
+    "url": "https://github.com/brianwalkerdev/responsive-personal-portfolio-website",
+    "homepage": "https://projects.brianwalker.dev/responsive-personal-portfolio-website/",
+    "thumbnail": "assets/img/responsive-personal-portfolio-website.png",
+    "openGraphImageUrl": "https://repository-images.githubusercontent.com/280724960/72005d35-ed43-47b3-b49d-b64f51280558",
     "usesCustomOpenGraphImage": true
   }
 ]
