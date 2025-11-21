@@ -2,7 +2,7 @@
   {
     "name": "responsive-admin-dashboard-web-app",
     "description": "Feature-rich dashboard UI with charts, messaging, alerts, notifications, and customizable settings.",
-    "updated": "2025-11-21T02:28:36Z",
+    "updated": "2025-11-21T02:58:35Z",
     "url": "https://github.com/brianwalkerdev/responsive-admin-dashboard-web-app",
     "homepage": "https://projects.brianwalker.dev/responsive-admin-dashboard-web-app/",
     "thumbnail": "assets/img/responsive-admin-dashboard-web-app.png",
@@ -10,9 +10,19 @@
     "usesCustomOpenGraphImage": true
   },
   {
+    "name": "phrase-guessing-game-javascript-app",
+    "description": "Wheel-of-Success style phrase guessing game with custom logic, randomized phrases, and responsive UI.",
+    "updated": "2025-11-21T02:55:02Z",
+    "url": "https://github.com/brianwalkerdev/phrase-guessing-game-javascript-app",
+    "homepage": "https://projects.brianwalker.dev/phrase-guessing-game-javascript-app/",
+    "thumbnail": "assets/img/phrase-guessing-game-javascript-app.png",
+    "openGraphImageUrl": "https://repository-images.githubusercontent.com/575927606/9ce3968a-5576-453a-82d2-f84ebc36654f",
+    "usesCustomOpenGraphImage": true
+  },
+  {
     "name": "interactive-photo-gallery-vanilla-javascript",
     "description": "Interactive photo gallery with instant search, lightbox previews, animations, and keyboard accessibility.",
-    "updated": "2025-11-21T02:25:03Z",
+    "updated": "2025-11-21T02:52:46Z",
     "url": "https://github.com/brianwalkerdev/interactive-photo-gallery-vanilla-javascript",
     "homepage": "https://projects.brianwalker.dev/interactive-photo-gallery-vanilla-javascript/",
     "thumbnail": "assets/img/interactive-photo-gallery-vanilla-javascript.png",
@@ -22,7 +32,7 @@
   {
     "name": "sass-ui-kit-modular-design-system",
     "description": "Scalable SASS UI kit featuring reusable components, design tokens, mixins, and modular architecture.",
-    "updated": "2025-11-21T02:24:25Z",
+    "updated": "2025-11-21T02:50:43Z",
     "url": "https://github.com/brianwalkerdev/sass-ui-kit-modular-design-system",
     "homepage": "https://projects.brianwalker.dev/sass-ui-kit-modular-design-system/",
     "thumbnail": "assets/img/sass-ui-kit-modular-design-system.png",
@@ -32,7 +42,7 @@
   {
     "name": "newsletter-signup-landing-page-ui-ux",
     "description": "Conversion-focused signup landing page with responsive layouts, form validation, and mobile-first UI/UX.",
-    "updated": "2025-11-21T02:22:31Z",
+    "updated": "2025-11-21T02:49:41Z",
     "url": "https://github.com/brianwalkerdev/newsletter-signup-landing-page-ui-ux",
     "homepage": "https://projects.brianwalker.dev/newsletter-signup-landing-page-ui-ux/",
     "thumbnail": "assets/img/newsletter-signup-landing-page-ui-ux.png",
@@ -42,21 +52,11 @@
   {
     "name": "responsive-personal-portfolio-website",
     "description": "A modern, mobile-first portfolio website built with semantic HTML and responsive CSS.",
-    "updated": "2025-11-21T02:20:59Z",
+    "updated": "2025-11-21T02:42:08Z",
     "url": "https://github.com/brianwalkerdev/responsive-personal-portfolio-website",
     "homepage": "https://projects.brianwalker.dev/responsive-personal-portfolio-website/",
     "thumbnail": "assets/img/responsive-personal-portfolio-website.png",
     "openGraphImageUrl": "https://repository-images.githubusercontent.com/280724960/72005d35-ed43-47b3-b49d-b64f51280558",
-    "usesCustomOpenGraphImage": true
-  },
-  {
-    "name": "phrase-guessing-game-javascript-app",
-    "description": "Wheel-of-Success style phrase guessing game with custom logic, randomized phrases, and responsive UI.",
-    "updated": "2025-11-19T04:59:01Z",
-    "url": "https://github.com/brianwalkerdev/phrase-guessing-game-javascript-app",
-    "homepage": "https://projects.brianwalker.dev/phrase-guessing-game-javascript-app/",
-    "thumbnail": "assets/img/phrase-guessing-game-javascript-app.png",
-    "openGraphImageUrl": "https://repository-images.githubusercontent.com/575927606/9ce3968a-5576-453a-82d2-f84ebc36654f",
     "usesCustomOpenGraphImage": true
   }
 ]
