@@ -251,18 +251,19 @@ body.light-mode .theme-toggle-icon--dark {
 }
 
 /* About Section */
+.about-section h2 {
+    font-family: var(--font-heading);
+    margin-bottom: 25px;
+    font-size: 2rem;
+    color: var(--accent-color);
+}
+
 .about {
     background: var(--bg-card);
     border: 1px solid var(--border-color);
     border-radius: 12px;
     padding: 30px;
     margin-bottom: 30px;
-}
-
-.about h2 {
-    font-family: var(--font-heading);
-    margin-bottom: 15px;
-    color: var(--accent-color);
 }
 
 .about p {
@@ -602,20 +603,23 @@ body.light-mode .theme-toggle-icon--dark {
 }
 
 /* Contact Section */
+.contact-section {
+    margin-top: 40px;
+}
+
+.contact-section h2 {
+    font-family: var(--font-heading);
+    margin-bottom: 25px;
+    color: var(--accent-color);
+    font-size: 2rem;
+}
+
 .contact {
     background: var(--bg-card);
     border: 1px solid var(--border-color);
     border-radius: 12px;
     padding: 30px;
     margin-bottom: 15px;
-    margin-top: 40px;
-}
-
-.contact h2 {
-    font-family: var(--font-heading);
-    margin-bottom: 10px;
-    color: var(--accent-color);
-    font-size: 1.75rem;
 }
 
 .contact > p {

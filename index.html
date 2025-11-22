@@ -88,9 +88,11 @@
     <main class="main">
         <div class="container">
             <!-- About Section -->
-            <section class="about">
+            <section class="about-section">
                 <h2>About</h2>
-                <p>Welcome to my portfolio hub! This page automatically showcases all my pinned GitHub repositories. Each project includes a live demo and links to the source code. You can view the source for this portfolio hub itself on <a href="https://github.com/brianwalkerdev/automated-portfolio-hub-github-actions" target="_blank" rel="noopener noreferrer">GitHub</a>.</p>
+                <div class="about">
+                    <p>Welcome to my portfolio hub! This page automatically showcases all my pinned GitHub repositories. Each project includes a live demo and links to the source code. You can view the source for this portfolio hub itself on <a href="https://github.com/brianwalkerdev/automated-portfolio-hub-github-actions" target="_blank" rel="noopener noreferrer">GitHub</a>.</p>
+                </div>
             </section>
 
             <!-- Controls Section -->
@@ -131,10 +133,11 @@
             </section>
 
             <!-- Contact Section -->
-            <section class="contact" aria-labelledby="contact-heading">
+            <section class="contact-section" aria-labelledby="contact-heading">
                 <h2 id="contact-heading">Contact</h2>
-                <p>Have a question or want to work together? Feel free to reach out using the form below.</p>
-                <form id="my-form" class="contact-form" action="https://formspree.io/f/myzvkbzl" method="POST">
+                <div class="contact">
+                    <p>Have a question or want to work together? Feel free to reach out using the form below.</p>
+                    <form id="my-form" class="contact-form" action="https://formspree.io/f/myzvkbzl" method="POST">
                     <div class="form-row">
                         <div class="form-field">
                             <label for="contact-name">Name</label>
@@ -151,7 +154,8 @@
                     </div>
                     <button type="submit" id="my-form-button" class="button">Send Message</button>
                     <p id="my-form-status" class="form-status" aria-live="polite"></p>
-                </form>
+                    </form>
+                </div>
             </section>
         </div>
     </main>
