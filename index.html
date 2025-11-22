@@ -219,6 +219,8 @@
                             } else {
                                 if (status) status.textContent = "Oops! There was a problem submitting your form";
                             }
+                        }).catch(function(jsonError) {
+                            if (status) status.textContent = "Server returned an invalid response. Please try again later.";
                         });
                     }
                 }).catch(function(error) {
