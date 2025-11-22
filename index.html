@@ -210,7 +210,10 @@
                     } else {
                         return response.json().then(function(data) {
                             if (data.errors) {
-                                if (status) status.textContent = data.errors.map(function(error) { return error.message; }).join(", ");
+                                var errorMessages = data.errors.map(function(error) {
+                                    return error.message;
+                                });
+                                if (status) status.textContent = errorMessages.join(", ");
                             } else {
                                 if (status) status.textContent = "Oops! There was a problem submitting your form";
                             }
