@@ -601,6 +601,103 @@ body.light-mode .theme-toggle-icon--dark {
     }
 }
 
+/* Contact Section */
+.contact {
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 30px;
+    margin-bottom: 30px;
+    margin-top: 40px;
+}
+
+.contact h2 {
+    font-family: var(--font-heading);
+    margin-bottom: 15px;
+    color: var(--accent-color);
+}
+
+.contact > p {
+    color: var(--text-secondary);
+    line-height: 1.8;
+    margin-bottom: 25px;
+}
+
+.contact-form {
+    max-width: 600px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.form-field {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.form-field label {
+    color: var(--text-primary);
+    font-weight: 500;
+    font-size: 0.95rem;
+}
+
+.form-field input,
+.form-field textarea {
+    width: 100%;
+    padding: 12px 15px;
+    background: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    color: var(--text-primary);
+    font-size: 1rem;
+    font-family: var(--font-body);
+    transition: var(--transition);
+}
+
+.form-field input:focus,
+.form-field textarea:focus {
+    outline: none;
+    border-color: var(--accent-color);
+    box-shadow: 0 0 0 3px rgba(136, 136, 136, 0.1);
+}
+
+.form-field textarea {
+    resize: vertical;
+    min-height: 100px;
+}
+
+.contact-form .button {
+    padding: 12px 24px;
+    background: var(--accent-color);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: var(--transition);
+    align-self: flex-start;
+}
+
+.contact-form .button:hover {
+    background: var(--accent-hover);
+    transform: scale(1.05);
+}
+
+.contact-form .button:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+    transform: none;
+}
+
+.form-status {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    margin-top: 10px;
+    min-height: 1.5em;
+}
+
 /* Footer */
 .footer {
     background-color: var(--bg-secondary);
@@ -730,6 +827,14 @@ body.light-mode .theme-toggle-icon--dark {
     
     .projects-grid {
         grid-template-columns: 1fr;
+    }
+    
+    .contact {
+        padding: 20px;
+    }
+    
+    .contact-form {
+        max-width: 100%;
     }
 }
 
