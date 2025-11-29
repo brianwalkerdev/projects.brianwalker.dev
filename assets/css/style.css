@@ -209,9 +209,7 @@ body {
 
 /* Theme Controls Container */
 .theme-controls-container {
-    background-color: var(--bg-secondary);
-    padding: 12px 0;
-    border-bottom: 1px solid var(--border-color);
+    /* Removed background, padding, and border for minimalist header integration */
 }
 
 .theme-controls-container .container {
