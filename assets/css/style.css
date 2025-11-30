@@ -900,7 +900,6 @@ body.light-mode .theme-toggle-icon--dark {
     }
     
     .header-right {
-        flex-wrap: wrap;
         justify-content: center;
         gap: 16px;
     }
