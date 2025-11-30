@@ -178,22 +178,103 @@ body {
 .header-right {
     display: flex;
     align-items: center;
-    gap: 24px;
+    gap: 20px;
 }
 
-.header-right a {
-    font-family: var(--font-body);
-    font-size: 0.95rem;
+/* Social Links in Header */
+.social-links {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.social-links a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 34px;
+    height: 34px;
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: 50%;
     color: var(--text-primary);
+    font-size: 1rem;
+    transition: var(--transition);
     text-decoration: none;
-    opacity: 0.8;
+}
+
+.social-links a:hover,
+.social-links a:focus {
+    background: var(--accent-color);
+    border-color: var(--accent-color);
+    color: var(--text-primary);
+    transform: scale(1.1);
+}
+
+/* Theme Toggle Slider */
+.theme-toggle {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+}
+
+.theme-toggle-track {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 64px;
+    height: 30px;
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: 15px;
+    padding: 0 6px;
     transition: var(--transition);
 }
 
-.header-right a:hover,
-.header-right a:focus {
+body.light-mode .theme-toggle-track {
+    background: var(--bg-secondary);
+}
+
+.theme-toggle-thumb {
+    position: absolute;
+    left: 3px;
+    width: 24px;
+    height: 24px;
+    background: var(--accent-color);
+    border-radius: 50%;
+    transition: transform 0.3s ease;
+    z-index: 1;
+}
+
+body.light-mode .theme-toggle-thumb {
+    transform: translateX(34px);
+}
+
+.theme-toggle-icon {
+    font-size: 0.9rem;
+    z-index: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease;
+}
+
+.theme-toggle-icon--light {
+    margin-left: auto;
+    opacity: 0;
+}
+
+body.light-mode .theme-toggle-icon--light {
     opacity: 1;
-    text-decoration: underline;
+}
+
+.theme-toggle-icon--dark {
+    margin-right: auto;
+    opacity: 1;
+}
+
+body.light-mode .theme-toggle-icon--dark {
+    opacity: 0;
 }
 
 /* Main Content */
@@ -759,7 +840,9 @@ body {
     }
     
     .header-right {
-        gap: 20px;
+        flex-direction: column;
+        align-items: center;
+        gap: 16px;
     }
 }
 
