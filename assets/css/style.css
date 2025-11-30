@@ -39,6 +39,11 @@ body.light-mode {
     --text-primary: #1a1a1a;
     --text-secondary: #666666;
     --border-color: #e0e0e0;
+    
+    /* Header Colors for Light Mode */
+    --header-bg: #ffffff;
+    --header-text: #1a1a1a;
+    --header-border: rgba(0, 0, 0, 0.1);
 }
 
 /* Theme Colors */
@@ -168,6 +173,11 @@ body {
     width: auto;
     object-fit: contain;
     border-radius: 8px;
+    transition: var(--transition);
+}
+
+.header-logo:hover {
+    transform: scale(1.05);
 }
 
 .header-name {
@@ -206,6 +216,12 @@ body {
     border-color: var(--accent-color);
     color: var(--header-text);
     transform: scale(1.1);
+}
+
+/* Light mode social links */
+body.light-mode .social-links a {
+    background: rgba(0, 0, 0, 0.05);
+    border: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 /* Theme Controls Container */
