@@ -33,9 +33,11 @@ body.light-mode {
     --bg-primary: #ffffff;
     --bg-secondary: #f5f5f5;
     --bg-card: #ffffff;
+    --bg-header: #ffffff;
     --text-primary: #1a1a1a;
     --text-secondary: #666666;
     --border-color: #e0e0e0;
+    --border-header: rgba(0, 0, 0, 0.1);
 }
 
 /* Theme Colors */
